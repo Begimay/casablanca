@@ -1,0 +1,22 @@
+stages:
+ - deploy
+
+deploy:
+ stage: deploy
+ only:
+   - master
+ before_script:
+   - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client git -y )'
+   - eval "$(ssh-agent -s)"
+   - echo "$SERVER_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+   - mkdir -p ~/.ssh
+   - chmod 700 ~/.ssh
+   - ssh-keyscan -H $SERVER_HOST >> ~/.ssh/known_hosts
+   - cat ~/.ssh/known_hosts
+   - chmod 644 ~/.ssh/known_hosts
+ script:
+   - ssh deployer@$SERVER_HOST -X
+     "cd casablanca-client;
+     git pull origin master;
+     ./up_server.sh;"
+   - ssh-agent -k

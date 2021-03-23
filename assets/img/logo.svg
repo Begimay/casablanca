@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="50" viewBox="0 0 30 50">
+  <defs>
+    <style>.a,.b{fill:#baa68b;}.b{fill-rule:evenodd;}</style>
+  </defs>
+  <g transform="translate(-24 -27)">
+    <g transform="translate(-382.48 -79)">
+      <rect class="a" width="1.009" height="49.417" transform="translate(406.48 106)"/>
+      <rect class="a" width="29.183" height="1.009" transform="translate(406.48 106)"/>
+      <rect class="a" width="1.009" height="16.507" transform="translate(435.472 106)"/>
+      <rect class="a" width="1.009" height="16.068" transform="translate(435.472 139.932)"/>
+      <rect class="a" width="1.009" height="12.855" transform="translate(408.985 108.643)"/>
+      <rect class="a" width="1.009" height="14.068" transform="translate(433.124 108.443)"/>
+      <rect class="a" width="1.009" height="12.977" transform="translate(433.124 139.954)"/>
+      <path class="b"
+            d="M381.91,215.749V214.74h8.915v1.009Zm3.316,2.439v-1h5.62l2.047-.717-2.047-.717V214.74l3.49,1.222,3.49-1.222h8.62v1.009h-8.62l-2.052.717,2.052.717v1.009l-3.49-1.222-3.49,1.217Z"
+            transform="translate(27.075 -106.297)"/>
+      <rect class="a" width="1.009" height="11.629" transform="translate(430.633 110.887)"/>
+      <rect class="a" width="1.009" height="10.59" transform="translate(411.476 110.887)"/>
+      <rect class="a" width="1.009" height="11.229" transform="translate(430.633 139.954)"/>
+      <rect class="a" width="1.009" height="9.034" transform="translate(408.985 128.04)"/>
+      <rect class="a" width="1.009" height="8.991" transform="translate(411.476 128.079)"/>
+      <path class="b"
+            d="M77.354,38.534l1.3-3.478-.943-.352-.813,2.187L76.111,34.7l-.961.4,1.278,3.43L75.15,41.969l.935.374.809-2.165.813,2.191.943-.352Z"
+            transform="translate(333.83 86.194)"/>
+      <path class="b"
+            d="M76.9,76.852l-.809,2.165-.93-.387,1.274-3.421L75.16,71.783l.956-.2.783,1.978.752-2,1,.161-1.3,3.478,1.3,3.482-.943.352Z"
+            transform="translate(333.825 65.152)"/>
+      <rect class="a" width="1.009" height="9.877" transform="translate(408.985 143.61)"/>
+      <rect class="a" width="1.009" height="6.76" transform="translate(411.476 143.675)"/>
+      <rect class="a" width="6.673" height="1.009" transform="translate(424.722 110.887)"/>
+      <path class="b"
+            d="M91.072,105.3h9.236v1.009H91.076v0l-3.5-1.222-3.494,1.222v0H75.16V105.3h8.925v0l2.054-.717-2.046-.717v0H77.537v-1.009h6.547v0l3.494,1.222,3.5-1.222v0h6.485v1.009H91.068v0l-2.046.717Z"
+            transform="translate(333.825 47.314)"/>
+      <rect class="a" width="1.009" height="30.128" transform="translate(423.955 115.969)"/>
+      <rect class="a" width="1.009" height="30.184" transform="translate(421.813 115.951)"/>
+      <rect class="a" width="2.295" height="1.009" transform="translate(420.551 115.834)"/>
+      <rect class="a" width="3.195" height="1.009" transform="translate(421.763 129.735)"/>
+      <rect class="a" width="1.009" height="30.193" transform="translate(418.741 115.943)"/>
+      <rect class="a" width="2.295" height="1.009" transform="translate(420.551 145.231)"/>
+      <rect class="a" width="2.317" height="1.009" transform="translate(423.922 145.197)"/>
+      <rect class="a" width="2.391" height="1.009" transform="translate(423.92 115.834)"/>
+      <path class="b"
+            d="M399.334,264.243a.391.391,0,1,1-.391.391.391.391,0,0,1,.391-.391m0-.583a.97.97,0,1,1-.69.284A.974.974,0,0,1,399.334,263.66Z"
+            transform="translate(17.38 -134.214)"/>
+      <path class="b" d="M424.11,264.243a.374.374,0,1,1-.374.37.369.369,0,0,1,.374-.37m0-.561a.387.387,0,1,1,0-.022Z"
+            transform="translate(2.909 -134.214)"/>
+      <rect class="a" width="12.721" height="1.009" transform="translate(415.187 147.649)"/>
+      <rect class="a" width="1.009" height="35.162" transform="translate(413.556 113.491)"/>
+      <rect class="a" width="14.701" height="1.009" transform="translate(413.849 113.491)"/>
+      <rect class="a" width="1.009" height="9.086" transform="translate(428.313 113.491)"/>
+      <rect class="a" width="14.81" height="1.009" transform="translate(413.993 147.649)"/>
+      <rect class="a" width="1.009" height="8.647" transform="translate(428.313 140.01)"/>
+      <path class="b" d="M403.43,215.749V214.74l7.321,2.443v1.009l-7.321-2.443" transform="translate(14.314 -106.297)"/>
+    </g>
+  </g>
+</svg>

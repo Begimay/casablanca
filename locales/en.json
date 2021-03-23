@@ -1,0 +1,126 @@
+{
+  "header": {
+    "apart_hotel": "Apart hotel",
+    "apartments": "Apartments",
+    "impressions": "Impressions",
+    "spa": "SPA",
+    "overview": "Overview",
+    "favourites": "Favourites"
+  },
+  "main": {
+    "banner_text": "Casablanca is a place where you can live, work and relax comfortably.",
+    "services": {
+      "apart_hotel": "Book a room for a short period of 1 day or more.",
+      "apartment": "Book apartments for a long period of 1 month or more.",
+      "impression": "Transfer. Staff. Security. Coffee Point. Parking spaces.",
+      "spa": "Turkish Hammam. Massage rooms. Fitness studios"
+    },
+    "about": {
+      "head": "Casablanca is the first apart - hotel in Bishkek.",
+      "text": "Our goal is to provide you with home coziness and hotel comfort. Apart-rooms are perfect for people who value their time, excellent service and are not ready to give up comfort."
+    },
+    "booking": {
+      "head": "book an apartment",
+      "link": "Contact with us"
+    },
+    "gallery": {
+      "more": "more photos",
+      "all": "all photos"
+    },
+    "contacts": {
+      "head": "Contacts",
+      "address": "Bishkek. Samoylenko street 7/3",
+      "bookHead": "Book an apartment",
+      "choose": "Choose any communication method convenient for you",
+      "name": "Name",
+      "phone": "Email",
+      "message": "Your message",
+      "send": "Send"
+    }
+  },
+  "overview" : {
+    "is": "Casablanca is the first apart-hotel in Bishkek",
+    "about1": "The essence of the complex is to give you a home - like atmosphere. We rent out fully valid apartments with developed infrastructure and hotel services. You can rent an apartment for any period of time. Apart-rooms are ideal for people who value their time, excellent service and are not ready to give up comfort.",
+    "about2": "In our hotel you will feel the highest level of comfort. Our region is famous for its warm hospitality. You will be kindly met, listened to, answered to all your questions and checked in to your room. Care and attention are not fluent phrases for us.",
+    "values": "Our values",
+    "value1": "Customer-oriented",
+    "value2": "Security",
+    "value3": "Convenience",
+    "value4": "Presentability",
+    "value5": "Commitment to excellence",
+    "value6": "Hospitality",
+    "sliders": "Three apartment buildings in a pricey elite district of Bishkek. Five floors, an attic, underground and surface car park. The hotel has a developed infrastructure:",
+    "slider1": "Spa",
+    "slider2": "Hammam",
+    "slider3": "Fitness studios",
+    "slider4": "Children's playgrounds",
+    "slider5": "Leisure areas",
+    "slider6": "Coffee-point",
+    "location": "Location",
+    "location1": "Kyrgyzia-1 is one of the most expensive areas in Bishkek for construction. The residential complex was built near the government highway and the President's residence",
+    "location2": "There is a developed infrastructure around the complex. There are the Embassy of Ukraine, secondary school № 58, preschool educational organization №26 nearby.",
+    "loyal": "Casablanca loyalty program",
+    "loyalAbout": "We stand by long-term relationships. If you stay at the hotel for more than 6 months, you automatically become a member of the Casablanca loyalty program. Once payment is made, points are accumulated that can be traded later for bonuses such as room improvements, free breakfast, or additional days of stay. Our managers will help you with club membership registration."
+  },
+  "spa": {
+    "about1": "Enjoy SPA and Hammam right at the hotel",
+    "about2": "For your leisure, we built a SPA center on the 1st floor of our apartments (500 square meters). You will be able to relax after a long flight or a busy day at work. Guests of the apart-hotel receive massages, recover strength and undergo wellness programs. The following services are available for our guests:",
+    "hamam": "Turkish Hammam",
+    "hamamAbout": "Immerse yourself in the atmosphere of a classic oriental hammam. Turkish bath has a positive effect on the body, improves well-being, relieves physical and psychological stress. A special temperature regime inside is maintained: 35-55 degrees. Humidity reaches 100%. In such an environment, blood circulation improves, wastes are excreted and muscles relax. Due to high humidity, the skin becomes smooth and tender. After steaming out, our guests feel rested, fresh and healthy.",
+    "fitness": "Fitness studios. Male and female.",
+    "fitnessAbout": "Our fitness rooms are equipped with the latest training equipment. There are several treadmills, equipment for gaining weight and maintaining tone. Separate halls, comfortable changing rooms, personal lockers and spacious showers-all of this is available in our fitness club. The air conditioning and ventilation system allows setting the most comfortable temperature for our guests' activities.",
+    "perfectPlace": "The perfect place for relaxation",
+    "massage": "Massage rooms",
+    "massageAbout1": "Massage rooms are available in our SPA. A professional massage therapist (it can be either a woman or a man by your request) will perform a procedure for treating, relaxing your body and relieving tension. We offer you the following types of massages:",
+    "massageAbout2": "Just choose the kind you like the most and we will leave the best memories for you."
+  },
+  "impressions": {
+    "head": "Your impressions are our job",
+    "text": "We provide you with a good mood, create a comfortable stay and leave you pleasant memories.",
+    "aboutHead": "English-speaking staff",
+    "aboutText": "You will be met by a staff who speaks English – no language barrier. We understand you at a glance and quickly find the best solutions.",
+    "aboutHead1": "Coffee-point",
+    "aboutText1": "On the ground floor of the apartment hotel is a small cozy Coffee Point. This is a mini-coffee shop with a coffee counter and staff. At the coffee point, you can order excellent coffee and a delicious croissant.",
+    "list1": "Transfer",
+    "listAbout1": "Fast transfer",
+    "listText1": "You do not need to worry about moving around the city, we will arrange a quick and comfortable transfer from the airport to the apartment hotel and back.",
+    "list2": "Security",
+    "listAbout2": "Reliability and safety of your holiday",
+    "listText2": "You will be living in a closed protected area. :",
+    "list3": "Bicycle rental",
+    "listAbout3": "Convenient movement",
+    "listText3": "We rent out bicycles for outdoor activities and relaxing trips around the city. Our area is ideal for this and is equipped with bike paths.",
+    "list4": "Ecology",
+    "listAbout4": "Ecologically clean area",
+    "listText4": "The area is suitable for permanent residence, has positive environmental indicators: clean air, luxuriant vegetation, greenery alleys. According to the latest data (2020), the air in this area is 45% cleaner than in other parts of the city (via Air Visual).",
+    "list5": "Parking",
+    "listAbout5": "Secure 24-hour parking",
+    "listText5": "On-site parking is allowed in certain areas. We have allocated two parking lots for parking: parking lots.",
+    "list6": "Playground",
+    "listAbout6": "Fun for your kids",
+    "listText6": "If you have children, there are playgrounds for them with safe slides and other entertainment. The playground is equipped with a gazebo where the adults can peacefully relax while watching their kids.",
+    "list7": "Pet`s friendly",
+    "listAbout7": "We love pets",
+    "listText7": "Come to us with your beloved pets. We are hospitable, love animals and get along well with them. Important! Please let us know about your pets before arrival."
+  },
+  "apart": {
+    "description": "Description",
+    "contact": "Contact with us",
+    "favourites": "Add to favourites",
+    "inFavourites": "In favourites",
+    "category": "Category",
+    "accomodation": "Accomodation",
+    "style": "Style",
+    "convinience": "Conviniences",
+    "air": "Air conditioning",
+    "microvawe": "Microvawe open",
+    "view": "Mountain view",
+    "bed": "Double bed",
+    "tv": "Television",
+    "showAll": "Show all conviniences",
+    "people": "people",
+    "more": "More"
+  },
+  "deleted": "Deleted from favourites",
+  "discount": "Discount"
+}
